@@ -107,6 +107,8 @@ El boceto puede tardar mucho en configurarse la primera vez; formateará su sist
 
 Una vez que el ESP32 se haya conectado, búsquelo para imprimir una dirección IP. Abra el navegador web de su computadora y conéctelo a la barra de direcciones. Debería ser recibido por el portal web ESP Gateway Config
 
+![image](https://user-images.githubusercontent.com/72763026/108858611-1ff6a200-75cb-11eb-8646-cb8a5d8eba01.png)
+
 
 
 
