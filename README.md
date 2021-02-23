@@ -99,10 +99,16 @@ Suba el boceto
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Con las modificaciones realizadas, intente compilar y cargar el boceto en su ESP32. Después de que se cargue, abra su monitor en serie y configure la velocidad en baudios en 115200 . Los mensajes de depuración aquí pueden ser muy útiles, y encontrar la dirección IP de su puerta de enlace es fundamental si desea monitorear el servidor web.
 
-El boceto puede tardar mucho en configurarse la primera vez; formateará su sistema de archivos SPIFFS y creará un archivo de configuración no volátil. Una vez que esté completo, debería ver el ESP32 intentar conectarse a su red WiFi, luego inicializar la radio.
 ![image](https://user-images.githubusercontent.com/72763026/108857765-2df7f300-75ca-11eb-8a22-f66f6523bd51.png)
 
+El boceto puede tardar mucho en configurarse la primera vez; formateará su sistema de archivos SPIFFS y creará un archivo de configuración no volátil. Una vez que esté completo, debería ver el ESP32 intentar conectarse a su red WiFi, luego inicializar la radio.
+
+
+
 Una vez que el ESP32 se haya conectado, búsquelo para imprimir una dirección IP. Abra el navegador web de su computadora y conéctelo a la barra de direcciones. Debería ser recibido por el portal web ESP Gateway Config
+
+
+
 
 Portal  web  ESP Gateway Config.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
