@@ -49,7 +49,7 @@ Configuraciones -
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Antes de cargar el boceto de ESP-1ch-Gateway , debe realizar algunas modificaciones en un par de archivo
-Archivo ESP-sc-gway.hç
+Archivo ESP-sc-gway.h
 
 Este archivo es la fuente principal de configuración del esquema de la puerta de enlace. Las definiciones que probablemente tendrá que modificar son:
 Radio
